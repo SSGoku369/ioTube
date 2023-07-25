@@ -13,7 +13,7 @@ require (
 	github.com/iotexproject/iotex-antenna-go/v2 v2.5.0
 	github.com/iotexproject/iotex-proto v0.4.4-0.20201029172022-a8466422b0f1
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.7.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/tsdb v0.10.0 // indirect
 	github.com/status-im/keycard-go v0.0.0-20190424133014-d95853db0f48 // indirect
 	github.com/stretchr/testify v1.7.0
